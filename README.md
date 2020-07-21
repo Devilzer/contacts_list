@@ -1,2 +1,2 @@
 # Contacts List 
-A Contact List using NodeJS and MongoDB.
+A Contact List web application using NodeJS and MongoDB.
